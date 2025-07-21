@@ -3,6 +3,13 @@
 
 **Computer Vision-Based Colorimetric Analysis Tool**  
 
+ColorChem Analysis is a web application designed for **colorimetric determination** of various analytical indicators, such as:  
+- **pH levels**  
+- **Chemical concentrations**  
+- **Other measurable parameters** based on color changes  
+
+By leveraging **computer vision** and **image processing**, this application analyzes colorimetric reactions captured from test strips through device cameras, providing fast and accurate quantitative results.  
+
 <div align="center">
 
 | <img src="https://github.com/user-attachments/assets/bd27af0d-2b1e-4e85-b6fc-bfbdf8bcfe40" width="400"> | <img src="https://github.com/user-attachments/assets/7f9ec63b-8280-4793-97ad-24a0930e389b" width="400"> |
@@ -14,13 +21,6 @@
 | *Calibration results*                                                                                  | *Measurement results*                                                                                  |
 
 </div>
-
-ColorChem Analysis is a web application designed for **colorimetric determination** of various analytical indicators, such as:  
-- **pH levels**  
-- **Chemical concentrations**  
-- **Other measurable parameters** based on color changes  
-
-By leveraging **computer vision** and **image processing**, this application analyzes colorimetric reactions captured from test strips through device cameras, providing fast and accurate quantitative results.  
 
 ## Key Features  
 - 📸 **Image-Based Analysis** – Uses photos of test samples for color comparison.  
